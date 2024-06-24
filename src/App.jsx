@@ -7,16 +7,16 @@ import Footer from './sections/Footer/Footer.jsx';
 
 const slides = [
   {
-    image: '../src/fresh-burger.png',
+    image: '../public/fitlift.png',
     link: 'https://github.com/'
   },
   {
-    image: '../src/fitlift.png',
+    image: '../public/fresh-burger.png',
     link: 'https://github.com/'
     
   },
   {
-    image: '../src/hipsster.png',
+    image: '../public/hipsster.png',
     link: 'https://github.com/'
   },
 ];
