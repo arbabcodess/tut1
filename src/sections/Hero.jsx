@@ -53,7 +53,7 @@ function Hero() {
           </a>
         </span>
         <p className={styles.description}>
-        LIFE SUCKS STILL FIQUIRING THE FUCK OUJT !!!!!!!!.
+        I'm a B.Tech CSE undergraduate, passionate about tech and working on exciting projects. Always eager to learn and create!
         </p>
         <a href={CV} download>
           <button className="hover">Resume</button>
